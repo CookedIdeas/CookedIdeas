@@ -1,0 +1,133 @@
+<svg fill="none" viewBox="0 0 600 320" width="600" height="320" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+      *{
+        box-sizing: content-box;
+        margin: 0;
+      }
+        @keyframes hi  {
+            0% { transform: rotate( 0.0deg) }
+           10% { transform: rotate(14.0deg) }
+           20% { transform: rotate(-8.0deg) }
+           30% { transform: rotate(14.0deg) }
+           40% { transform: rotate(-4.0deg) }
+           50% { transform: rotate(10.0deg) }
+           60% { transform: rotate( 0.0deg) }
+          100% { transform: rotate( 0.0deg) }
+        }
+
+        @keyframes gradient {
+          0% {
+            background-position: 0% 50%;
+          }
+          50% {
+            background-position: 100% 50%;
+          }
+          100% {
+            background-position: 0% 50%;
+          }
+        }
+
+        .outline {
+            --color-main: #150A0C;
+            --color-primary: #8C1436;
+            --color-secondary: #9EC760;
+            --color-tertiary: #ffff;
+
+            background: linear-gradient(-45deg, var(--color-main), var(--color-primary), var(--color-secondary), var(--color-tertiary));
+            background-size: 400% 400%;
+            animation: gradient 15s ease infinite;
+
+            width: 100%;
+            height: 300px;
+
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            color: white;
+
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+        }   
+
+        .container {
+            background : white;
+            width: 100%;
+            height: 260px;
+            margin : 20px;
+            padding : 0 20px;
+        }
+
+        .content-container {
+            height: 100%;
+            display:flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-around;
+        }
+
+        h1 {
+            color : black;
+            margin: 0;
+            text-transform: uppercase;
+            font-weight: 800;
+            font-size: 50px;
+        }
+
+        p {
+            font-size: 26px;
+            line-height: 35px;
+            font-weight: 800;
+            color: black;
+            text-transform: uppercase;
+        }
+
+        .text-bg {
+            background: url(code_image.jpg) 0 0 / cover no-repeat;
+            color: #de466c;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: rgba(0,0,0,0.4);
+        }
+
+        .hi {
+            font-size: 35px;
+          animation: hi 1.5s linear -0.5s infinite;
+          display: inline-block;
+          transform-origin: 70% 70%;
+          -webkit-text-fill-color : black;
+          margin-left : 10px;
+        }
+
+        @media (prefers-color-scheme: light) {
+          .outline {
+              --color-main: #150A0C;
+            --color-primary: #8C1436;
+            --color-secondary: #9EC760;
+            --color-tertiary: #EEF2F0;
+          }
+        }
+
+        @media (prefers-reduced-motion) {
+          .container {
+            animation: none;
+          }
+
+          .hi {
+            
+            animation: none;
+          }
+        }
+      </style>
+
+    <div class="outline">
+        <div class="container">
+            <div class="content-container">
+                <div class="hi">👋</div>
+                <h1 class="text-bg">Hi, I'm Gabriel</h1>
+                <p class="text-bg">Fullstack developer</p>
+            </div>
+        </div>
+    </div>
+</div>
+  </foreignObject>
+</svg>
