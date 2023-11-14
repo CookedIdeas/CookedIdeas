@@ -1,5 +1,8 @@
 ### Hi, I'm Gabriel ! 👋
 
+![Welcom](./hello.svg)
+<img src="./hello.svg">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CookedIdeas&hide=SCSS,Dockerfile)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
