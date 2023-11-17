@@ -14,6 +14,7 @@
     </div>
     </br>
     <div>⚡ Coding with :
+    <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="30" height="30"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
             title="React" alt="React" width="30" height="30"/>&nbsp;
@@ -21,6 +22,7 @@
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" title="gatsby" alt="gatsby" width="30" height="30"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="30" height="30"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="30" height="30"/>&nbsp;
+            </div>
     </div>
     </br>
     <div>🌱 Learning :
