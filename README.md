@@ -5,7 +5,7 @@
 </div>
 
 <div id="content" width="100%" style="display:flex; flex-direction:column;margin:15px 0;">
-<h1>I'm a freelance fullstack developer</h1>
+<h1>I'm a freelance fullstack web developer</h1>
     <div>✨ Currently working on :
         <ul>
             <li>Developing a saas to help people and companies to manage their social networks</li>
@@ -26,11 +26,11 @@
     </div>
     </br>
     <div>🌱 Learning :
-        <div>
-        <p>Nextjs <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-            title="Nextjs" alt="Nextjs" width="30" height="30"/>&nbsp;</p>
-            <p>React design system and design patterns</p>
-        </div>
+        <ul>
+        <li>Nextjs <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+            title="Nextjs" alt="Nextjs" width="30" height="30"/>&nbsp;</li>
+            <li>React design system and design patterns</li>
+        </ul>
     </div>
     </br>
 </div>
