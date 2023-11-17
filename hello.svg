@@ -83,7 +83,7 @@
         }
 
         .text-bg {
-            background: url(code_image.jpg) 0 0 / cover no-repeat;
+            background: url(./code_image.jpg) 0 0 / cover no-repeat;
             color: #de466c;
             -webkit-background-clip: text;
             -webkit-text-fill-color: rgba(0,0,0,0.4);
