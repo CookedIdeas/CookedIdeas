@@ -1,20 +1,26 @@
 ### Hi, I'm Gabriel ! 👋
 
-<div style="display : grid; grid-template-columns: 1fr 1fr;">
-    <div id="header" width="100%">
+<div style="margin-top:20px;display : grid; grid-template-columns: 1fr 1fr;">
+    <div id="header" width="100%" style="display:flex; flex-direction:column; gap:10px">
+    <h1>I'm a french fullstack developer</h1>
     <div>- ⚡ Working with :
-    <div>
+        <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
            title="React" alt="React" width="30" height="30"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="30" height="30"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" title="gatsby" alt="gatsby" width="30" height="30"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" title="gatsby" alt="gatsby" width="30" height="30"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" title="gatsby" alt="gatsby" width="30" height="30"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" title="gatsby" alt="gatsby" width="30" height="30"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" title="gatsby" alt="gatsby" width="30" height="30"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" title="gatsby" alt="gatsby" width="30" height="30"/>&nbsp;
-            </div>
-          </div>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="30" height="30"/>&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="30" height="30"/>&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="30" height="30"/>&nbsp;
+        </div>
+    </div>
+        <div>-🌱 Learning :
+        <div>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg"
+           title="Nextjs" alt="Nextjs" width="30" height="30"/>&nbsp;
+           <p>React design patterns</p>
+        </div>
+    </div>
             - 🔭 I’m currently working on ...
     - 🌱 I’m currently learning ...
     - 👯 I’m looking to collaborate on ...
