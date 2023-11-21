@@ -20,6 +20,8 @@
             title="React" alt="React" width="30" height="30"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="30" height="30"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gatsby/gatsby-plain.svg" title="gatsby" alt="gatsby" width="30" height="30"/>&nbsp;
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
+            title="Nextjs" alt="Nextjs" width="30" height="30"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title="tailwindcss" alt="tailwindcss" width="30" height="30"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="30" height="30"/>&nbsp;
             </div>
@@ -27,8 +29,6 @@
     </br>
     <div>🌱 Learning :
         <ul>
-        <li>Nextjs <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-            title="Nextjs" alt="Nextjs" width="30" height="30"/>&nbsp;</li>
             <li>React design system and design patterns</li>
         </ul>
     </div>
