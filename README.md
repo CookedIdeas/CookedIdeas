@@ -8,7 +8,7 @@
 <h1>I'm a freelance fullstack web developer</h1>
     <div>✨ Currently working on :
         <ul>
-            <li>Developing a saas to help people and companies to manage their social networks</li>
+            <li>Developing improvements to a beautiful social media : <a href="https://www.entrepotes.org/" target="_blank">Entre Potes</a></li>
             <li>Teaching web development and web design</li>
         </ul>
     </div>
@@ -27,9 +27,10 @@
             </div>
     </div>
     </br>
-    <div>🌱 Learning :
+    <div>🌱 Currently developping my skills on :
         <ul>
             <li>React design system and design patterns</li>
+            <li>Nestjs and prisma</li>
         </ul>
     </div>
     </br>
@@ -38,9 +39,7 @@
 [![Top Langs](https://github-readme-stats-virid-one-14.vercel.app/api/top-langs/?username=CookedIdeas&hide=SCSS,Dockerfile,Shell,PHP)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**CookedIdeas/CookedIdeas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Emoji stock
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
