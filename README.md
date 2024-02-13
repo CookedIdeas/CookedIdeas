@@ -19,7 +19,7 @@
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="30" height="30" />&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>&nbsp;
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Nextjs" alt="Nextjs" width="30" height="30"/>&nbsp;
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node" alt="Node" width="30" height="30"/>&nbsp;
+             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title="Node" alt="Node" width="30" height="30"/>&nbsp;
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" title="Nestjs" alt="Nestjs" width="30" height="30"/>&nbsp;
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gatsby/gatsby-original.svg" title="gatsby" alt="gatsby" width="30" height="30"/>&nbsp;
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title="tailwindcss" alt="tailwindcss" width="30" height="30"/>&nbsp;
