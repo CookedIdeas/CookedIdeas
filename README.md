@@ -6,14 +6,10 @@
 
 <div id="content" width="100%" style="display:flex; flex-direction:column;margin:15px 0;">
 <h1>I'm a freelance fullstack web developer</h1>
-    <div>✨ Currently working on :
-        <ul>
-            <li>Developing improvements to a beautiful social media : <a href="https://www.entrepotes.org/" target="_blank">Entre Potes</a></li>
-            <li>Teaching web development and web design</li>
-        </ul>
+    <div>✨ Currently coding <a href="https://www.entrepotes.org/" target="_blank">Entre Potes</a>.
     </div>
     </br>
-    <div>⚡ Coding with :
+    <div>⚡ Coding with my keyboard and :
         <div>
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="30" height="30"/>&nbsp;
              <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" title="typescript" alt="typescript" width="30" height="30" />&nbsp;
@@ -27,17 +23,8 @@
         </div>
     </div>
     </br>
-    <div>🌱 Currently developping my skills on :
-        <ul>
-            <li>React design system and design patterns</li>
-            <li>Nestjs and prisma</li>
-        </ul>
-    </div>
     </br>
 </div>
-
-[![Top Langs](https://github-readme-stats-virid-one-14.vercel.app/api/top-langs/?username=CookedIdeas&hide=SCSS,Dockerfile,Shell,PHP)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 Emoji stock
 
