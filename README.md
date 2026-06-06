@@ -6,8 +6,6 @@
 
 <div id="content" width="100%" style="display:flex; flex-direction:column;margin:15px 0;">
 <h1>I'm a freelance fullstack web developer</h1>
-    <div>✨ Currently coding <a href="https://www.entrepotes.org/" target="_blank">Entre Potes</a>.
-    </div>
     </br>
     <div>⚡ Coding with my keyboard and :
         <div>
